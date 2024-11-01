@@ -1,0 +1,248 @@
+# Copyright (C) 2013 WP Symposium Blog Post
+# This file is distributed under the same license as the WP Symposium Blog Post package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Symposium Blog Post 1.2.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-symposium-blogpost\n"
+"POT-Creation-Date: 2013-06-05 08:53:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-08-07 08:58+0100\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: wp-symposium-blogpost.php:72 wp-symposium-blogpost.php:124
+#: wp-symposium-blogpost_admin.php:76
+msgid "My Blog Posts"
+msgstr "Mine blog indlæg"
+
+#: wp-symposium-blogpost.php:73 wp-symposium-blogpost.php:124
+#: wp-symposium-blogpost.php:187 wp-symposium-blogpost.php:188
+#: wp-symposium-blogpost_admin.php:76 wp-symposium-blogpost_admin.php:81
+#: wp-symposium-blogpost_admin.php:124 wp-symposium-blogpost_admin.php:181
+msgid "Blog Posts"
+msgstr "Blog indlæg"
+
+#: wp-symposium-blogpost.php:171
+msgid "Blog_Post"
+msgstr "Blog_indlæg"
+
+#: wp-symposium-blogpost.php:252
+msgid "Published a new blog post:"
+msgstr "Udgav et nyt blog indlæg:"
+
+#: wp-symposium-blogpost_admin.php:19
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du har ikke adgangsbeføjelser til denne side."
+
+#: wp-symposium-blogpost_admin.php:32
+msgid "Saved"
+msgstr "Gemt"
+
+#: wp-symposium-blogpost_admin.php:92
+msgid "Add Blog Posts to Profile menu"
+msgstr "Tilføj Blog indlæg til profilmenu"
+
+#: wp-symposium-blogpost_admin.php:94
+msgid ""
+"Choose roles for which a menu entry will be added to the WP Symposium "
+"Profile Page of a member, listing all blog posts published by this member"
+msgstr ""
+"Vælg hvilke roller der skal have en liste over deres egne blog indlæg på "
+"deres WP Symposium profilside"
+
+#: wp-symposium-blogpost_admin.php:108
+msgid ""
+"You have activated the horizontal menu for the WP Symposium Profile page. "
+"The Blog Posts menu items will be displayed only for the roles checked "
+"above, so make sure your menu remains consistent for roles that are not "
+"checked."
+msgstr ""
+"Du har aktiveret den horisontale menu for WP Symposium profilside. "
+"Menupunkter for blog indlæg vil kun blive vist for roller afkrydset ovenfor, "
+"så sørg for at menuen for ikke-afkrydsede roller er overensstemmende."
+
+#: wp-symposium-blogpost_admin.php:114
+msgid ""
+"Which items should be added to the vertical menu, at the WP Symposium "
+"Profile page ?"
+msgstr ""
+"Hvilke punkter skal tilføjes den vertikale menu på WP Symposium profilsiden?"
+
+#: wp-symposium-blogpost_admin.php:117
+msgid "Menu Item"
+msgstr "Menupunkt"
+
+#: wp-symposium-blogpost_admin.php:118
+msgid "Own Page"
+msgstr "Egen side"
+
+#: wp-symposium-blogpost_admin.php:119
+msgid "Own Page Text"
+msgstr "Tekst på egen side"
+
+#: wp-symposium-blogpost_admin.php:120
+msgid "Other Members"
+msgstr "Andre medlemmer"
+
+#: wp-symposium-blogpost_admin.php:121
+msgid "Other Members Text"
+msgstr "Andre medlemmers tekst"
+
+#: wp-symposium-blogpost_admin.php:147
+msgid ""
+"Choose blogs of the network for which posts will be displayed on this site, "
+"at the WP Symposium Profile Page of these members"
+msgstr ""
+"Vis din hjemmesides blog indlæg på medlemmernes  WP Symposium Profilside"
+
+#: wp-symposium-blogpost_admin.php:154
+msgid "at"
+msgstr "på"
+
+#: wp-symposium-blogpost_admin.php:164
+msgid ""
+"Number of posts to show on a member's profile page, when first called, and "
+"then each time 'more' is pressed"
+msgstr ""
+"Antal indlæg der vises på medlemmers profilsider og som fremkommer ved tryk "
+"på \"mere...\""
+
+#: wp-symposium-blogpost_admin.php:169
+msgid "Add Profile menu to Blog Posts"
+msgstr "Tilføj profilmenu til blog indlæg"
+
+#: wp-symposium-blogpost_admin.php:172
+msgid ""
+"Rewrite the authors URL in their posts meta, to link to their WPS profile "
+"page? NB: your theme must use get_author_posts_url() for this feature to work"
+msgstr ""
+"Tilføj/omskriv forfatterens URL i deres indlæg for at linke til deres WPS "
+"profilside? NB: dit tema skal benytte get_author_posts_url() for at dette "
+"vil virke."
+
+#: wp-symposium-blogpost_admin.php:180
+msgid "WPS default Profile view"
+msgstr "WPS standard profilvisning"
+
+#: wp-symposium-blogpost_admin.php:182
+msgid ""
+"If checked above, which WPS Profile page should be linked to blog posts "
+"meta? NB: WPS default Profile page is defined in"
+msgstr ""
+"Hvis ovenstående er afkrydset: hvilken WPS profilside skal blog indlæg linke "
+"til?  NB: WPS standard profilside er defineret i"
+
+#: wp-symposium-blogpost_admin.php:182
+msgid "Profile"
+msgstr "Profil"
+
+#: wp-symposium-blogpost_admin.php:182
+msgid "Default profile view"
+msgstr "Standardvisning af profil"
+
+#: wp-symposium-blogpost_admin.php:190
+msgid ""
+"Add / rewrite the URL for comments authors, to link to their WPS profile "
+"page? NB: your theme must use comments_template() for this feature to work."
+msgstr ""
+"Tilføj/omskriv URL for kommentarskrivere for at linke til deres WPS "
+"profilside? NB: dit tema skal benytte comments_template() for at dette vil "
+"virke."
+
+#: wp-symposium-blogpost_admin.php:190
+msgid ""
+"Moreover this is based on email address, make sure your comment form is "
+"password-protected, or activate only with comments moderation."
+msgstr ""
+"Dette er baseret på emailadresser, sørg for at dine kommetarer er password-"
+"beskyttet i indstillingerne."
+
+#: wp-symposium-blogpost_admin.php:195
+msgid "Add Posts to Activity"
+msgstr "Tilføj indlæg til Aktiviteter"
+
+#: wp-symposium-blogpost_admin.php:198
+msgid ""
+"Add one row to the Symposium Activity of an author each time he/she "
+"publishes a new post in the blog?"
+msgstr ""
+"Tilføj ny linie på forfatterens Symposium Aktiviteter når han/hun udgiver et "
+"indlæg på bloggen?"
+
+#: wp-symposium-blogpost_admin.php:206
+msgid ""
+"Display the excerpt of posts (or their beginning) in the WPS Activity "
+"(length of excerpt, 0 for no text)"
+msgstr ""
+"Vis uddrag af indlægget i WPS Aktiviteter (længde på uddrag, 0 for ingen "
+"tekst)"
+
+#: wp-symposium-blogpost_admin.php:211
+msgid "Add Comments to Activity"
+msgstr "Tilføj kommentarer til Aktiviteter"
+
+#: wp-symposium-blogpost_admin.php:213
+msgid ""
+"Add one row to the Symposium Activity of a member each time he/she publishes "
+"a new comment to a:"
+msgstr "Tilføj ny linie til "
+
+#: wp-symposium-blogpost_admin.php:227
+msgid ""
+"Display the beginning of comments in the WPS Activity (length of excerpt, 0 "
+"for no text)"
+msgstr ""
+"Vis uddrag af kommentarer på WPS Aktiviteter (længde på uddrag, 0 for ingen "
+"tekst)"
+
+#: wp-symposium-blogpost_admin.php:235
+msgid ""
+"Add comments to members Activity, even when posting as visitors i.e. not "
+"logged in, based on email address? NB: make sure your comments are password-"
+"protected, or activate only with comments moderation."
+msgstr ""
+"Vis også kommentarer fra ikke-indlogget  gæst på medlemmers aktiviteter? NB: "
+"Sørg for at dine kommetarer er password-beskyttet i indstillingerne."
+
+#: wp-symposium-blogpost_admin.php:242
+msgid "Save Changes"
+msgstr "Gem ændringer"
+
+#: wp-symposium-blogpost_functions.php:62
+msgid "Commented on"
+msgstr "Kommenterede på"
+
+#: wp-symposium-blogpost_functions.php:243
+msgid "(no title)"
+msgstr "(ingen tittel)"
+
+#: wp-symposium-blogpost_functions.php:258
+msgid "more..."
+msgstr "mere..."
+
+#: wp-symposium-blogpost_functions.php:264
+msgid "Nothing to show, sorry."
+msgstr "Der er ingenting at vise, beklager."
+
+#. Plugin Name of the plugin/theme
+msgid "WP Symposium Blog Post"
+msgstr "WP Symposium Blog indlæg"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/wp-symposium-blogpost/"
+msgstr "http://wordpress.org/extend/plugins/wp-symposium-blogpost/"
+
+#. Description of the plugin/theme
+msgid "Integrates WP Symposium with your WP blog."
+msgstr "Integrerer WP Symposium med din WP Blog."
+
+#. Author of the plugin/theme
+msgid "AlphaGolf_fr"
+msgstr "AlphaGolf_fr"
+
+#. Author URI of the plugin/theme
+msgid "http://profiles.wordpress.org/AlphaGolf_fr/"
+msgstr "http://profiles.wordpress.org/AlphaGolf_fr/"
